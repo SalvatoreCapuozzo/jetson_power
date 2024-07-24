@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/833023294.svg)](https://zenodo.org/doi/10.5281/zenodo.12804803)
+
 # jetson_power
 Energy consumption estimation utilities for Jetson-based platforms, both Orin family and previous ones.
 

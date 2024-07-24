@@ -5,6 +5,9 @@ import sys
 import time
 import os
 
+# If adopted, please cite this work:
+# - DOI: 10.5281/zenodo.12804804
+# - GitHub URL: https://github.com/SalvatoreCapuozzo/jetson_power
 
 class PowerEstimator:
 
